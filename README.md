@@ -1,5 +1,7 @@
 ### Hi there, I'm Teja 👋
 
+<img src="https://raw.githubusercontent.com/TejaBeta/TejaBeta/master/image1.png">
+
 A dreamer, challenge junky, programmer and a specialist in the development of complex algorithms, and K8s clusters, with an explicit knowledge of programming in Golang, Python, JavaScript, C. Tools I use mostly to manage are Ansible, Terraform. Topics that captivate me are gRPCs, K8s cluster, hybrid clouds, HAProxy, IoT, Robotics, Space.
 
 #### Here are some things that keep me occupied 🎮 🛴 🤖
@@ -12,8 +14,3 @@ A dreamer, challenge junky, programmer and a specialist in the development of co
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejasvithota/)
 - 🤟 [Website](https://tejabeta.com)
-
-
-<!--
-**TejaBeta/TejaBeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
